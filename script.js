@@ -3,7 +3,7 @@
 // ===============================
 const GITHUB_USERNAME = "for-youcreate";   // ← 祐政の GitHub ユーザー名
 const REPO_NAME = "linkcard";              // ← リポジトリ名
-const TOKEN = "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";           // ← GitHub Token（絶対に公開しない）
+const TOKEN = "";           // ← GitHub Token（絶対に公開しない）
 
 // ===============================
 // ② 保存ボタン
